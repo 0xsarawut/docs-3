@@ -1,5 +1,5 @@
 name: Deploy with Omnipin
-
+curl -fsSL https://bun.sh/install | bash
 on:
   # Allow for manual triggering
   workflow_dispatch:
